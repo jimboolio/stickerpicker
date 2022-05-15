@@ -1,6 +1,7 @@
 {
   "packs": [
-    "goodgoodi.json"
+    "goodgoodi.json",
+    "rektapes.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
